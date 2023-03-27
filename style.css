@@ -72,3 +72,8 @@ textarea::-webkit-scrollbar-thumb {
   cursor: pointer;
   color: white;
 }
+
+.anotacao {
+  font-size: 30px;
+  padding-bottom: 15px;
+}
